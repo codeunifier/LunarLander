@@ -1,3 +1,10 @@
+/*************************************************************************
+* File: lander.cpp
+*
+* Description: Implementations of the method bodies of the lander class
+*
+*************************************************************************/
+
 #include "point.h"
 #include "lander.h"
 #include "uiDraw.h"

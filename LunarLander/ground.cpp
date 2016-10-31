@@ -1,8 +1,6 @@
 /***********************************************************************
  * Implementation File:
  *    GROUND : A class representing the lunar landscape
- * Author:
- *    Br. Helfrich
  * Summary:
  *    Everything you needed to know about the ground but were afraid to ask
  ************************************************************************/

@@ -1,3 +1,10 @@
+/******************************************************************************
+* File: velocity.cpp
+*
+* Description: Implementation of the method bodies of the velocity class
+*
+******************************************************************************/
+
 #include "velocity.h"
 
 using namespace std;
